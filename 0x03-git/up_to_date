@@ -1,0 +1,23 @@
+git clone <repo>
+
+git add [<file>,<.>,<--all>]
+
+git commit -m "<comment>"
+
+git origin -u main
+
+git branch -a
+
+git branch <branch name>
+
+git pull
+
+git push origin main
+
+git push --set-upstream origin <branch name>
+
+git branch -M main
+
+git checkout -b <branch name>
+
+git checkout - <branch>
